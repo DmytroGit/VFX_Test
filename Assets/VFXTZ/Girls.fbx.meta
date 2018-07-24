@@ -456,7 +456,7 @@ ModelImporter:
       name: Poyavlenie_Runner_Girls_Pets_fbx
       takeName: Runner_Girls_Pets_fbx
       firstFrame: 0
-      lastFrame: 42
+      lastFrame: 163
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -483,8 +483,8 @@ ModelImporter:
     - serializedVersion: 16
       name: Idle_Runner_Girls_Pets_fbx
       takeName: Runner_Girls_Pets_fbx
-      firstFrame: 164
-      lastFrame: 210
+      firstFrame: 163
+      lastFrame: 226
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
@@ -511,15 +511,15 @@ ModelImporter:
     - serializedVersion: 16
       name: Run_Runner_Girls_Pets_fbx
       takeName: Runner_Girls_Pets_fbx
-      firstFrame: 489
-      lastFrame: 517
+      firstFrame: 352
+      lastFrame: 366
       wrapMode: 0
       orientationOffsetY: 0
       level: 0
       cycleOffset: 0
       loop: 0
       hasAdditiveReferencePose: 0
-      loopTime: 1
+      loopTime: 0
       loopBlend: 0
       loopBlendOrientation: 0
       loopBlendPositionY: 1
